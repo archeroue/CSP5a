@@ -1,0 +1,62 @@
+h1{ 
+    text-align: center;
+    color: white;
+    line-height: 1.8;
+    font-family: "Times New Roman", Times, serif;
+}
+
+div.scrollmenu{
+	background-color:none;
+	overflow:auto;
+	white-space:nowrap;
+    position: fixed;
+    bottom: 0;
+    width: 25%;
+}
+
+div.scrollmenu a{
+	display: inline-block;
+	color:white;
+	text-align:center;
+	padding:14px;
+	text-decoration:none;
+}
+
+div.scrollmenu a:hover{
+	background-color:none;
+}
+
+body {
+   background-image: url("images/image4.jpeg");
+   background-attachment: fixed;
+   background-repeat:no-repeat;
+   background-size:cover;
+} 
+
+h2{font-family: "Times New Roman",Times, serif;
+    text-align: center;
+    text-align-last: center;
+    line-height:normal;
+    color: white;
+    
+}
+div.small{font-family: "Times New Roman",Times, serif;
+    text-align: left;
+    line-height:inherit;
+    color: white;
+    vertical-align: text-top;
+}
+b{font-family: "Times New Roman",Times, serif;
+    text-align: center;
+    text-align-last: center;
+    line-height:normal;
+    color: white;}
+td{font-family: "Times New Roman",Times, serif;
+    text-align: left;
+    line-height:normal;
+    color: white;}
+
+a{font-family: "Times New Roman",Times, serif;
+    text-align: left;
+    line-height:normal;
+    color: white;}
